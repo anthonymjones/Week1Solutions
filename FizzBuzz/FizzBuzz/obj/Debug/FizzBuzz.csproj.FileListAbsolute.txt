@@ -1,0 +1,6 @@
+C:\Users\anthonyjones\Documents\GitHub\Week1Solutions\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\anthonyjones\Documents\GitHub\Week1Solutions\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\anthonyjones\Documents\GitHub\Week1Solutions\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\anthonyjones\Documents\GitHub\Week1Solutions\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\anthonyjones\Documents\GitHub\Week1Solutions\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\anthonyjones\Documents\GitHub\Week1Solutions\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
